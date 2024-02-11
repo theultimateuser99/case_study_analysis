@@ -1,0 +1,11 @@
+DATASET:
+  Charges: data/Data/Charges_use.csv
+  Damages: data/Data/Damages_use.csv
+  Endorse: data/Data/Endorse_use.csv
+  Primary_Person: data/Data/Primary_Person_use.csv
+  Units: data/Data/Units_use.csv
+  Restrict: data/Data/Restrict_use.csv
+
+OUTPUT:
+  FOLDER: output/
+  FORMAT: csv

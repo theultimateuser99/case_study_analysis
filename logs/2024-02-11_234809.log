@@ -1,0 +1,25 @@
+2024-02-11 23:48:13,801 - logger - INFO - path to config file: src/config/config.yaml
+2024-02-11 23:48:30,177 - logger - INFO - dataframes initialized from the configured dataset folder
+2024-02-11 23:48:30,185 - logger - INFO - output folder and format have been configured
+2024-02-11 23:48:30,185 - logger - INFO - vehicle attribute columns have been set
+2024-02-11 23:48:42,991 - logger - INFO - output for Q1 analysis stored at - output/analysis_q1
+2024-02-11 23:48:42,992 - logger - INFO - analysis for Q1 finished
+2024-02-11 23:48:54,804 - logger - INFO - output for Q2 analysis stored at - output/analysis_q2
+2024-02-11 23:48:54,810 - logger - INFO - analysis for Q2 finished
+2024-02-11 23:49:14,653 - logger - INFO - output for Q3 analysis stored at - output/analysis_q3
+2024-02-11 23:49:14,654 - logger - INFO - analysis for Q3 finished
+2024-02-11 23:49:32,491 - logger - INFO - output for Q4 analysis stored at - output/analysis_q4
+2024-02-11 23:49:32,492 - logger - INFO - analysis for Q4 finished
+2024-02-11 23:49:46,509 - logger - INFO - output for Q5 analysis stored at - output/analysis_q5
+2024-02-11 23:49:46,509 - logger - INFO - analysis for Q5 finished
+2024-02-11 23:49:55,777 - logger - INFO - output for Q6 analysis stored at - output/analysis_q6
+2024-02-11 23:49:55,777 - logger - INFO - analysis for Q6 finished
+2024-02-11 23:50:14,658 - logger - INFO - output for Q7 analysis stored at - output/analysis_q7
+2024-02-11 23:50:14,658 - logger - INFO - analysis for Q7 finished
+2024-02-11 23:50:42,554 - logger - INFO - output for Q8 analysis stored at - output/analysis_q8
+2024-02-11 23:50:42,555 - logger - INFO - analysis for Q8 finished
+2024-02-11 23:50:55,004 - logger - INFO - output for Q9 analysis stored at - output/analysis_q9
+2024-02-11 23:50:55,007 - logger - INFO - analysis for Q9 finished
+2024-02-11 23:51:31,756 - logger - INFO - output for Q10 analysis stored at - output/analysis_q10
+2024-02-11 23:51:31,757 - logger - INFO - analysis for Q10 finished
+2024-02-11 23:51:33,857 - logger - INFO - Successfully completed the execution
