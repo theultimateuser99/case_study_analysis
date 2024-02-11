@@ -6,7 +6,7 @@ Submission By - Aditya Kumar
 
 The exploratory data analysis has been carried out on the dataset comprising 6 csv files based on the set of analytic questions. Please refer to notebooks/analysis.ipynb for further insights.
 
-The solutions to the 10 analytic questions has been developed leveraging the insights of exploratory data analysis. Please refer to notebooks/solutions.ipynb
+The solutions to the 10 analytic questions have been developed leveraging the insights of exploratory data analysis. Please refer to notebooks/solutions.ipynb
 
 ### Usage:
 
